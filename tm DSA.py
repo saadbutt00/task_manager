@@ -137,5 +137,3 @@ elif display_type == "Stack":
             st.session_state.stack.rmvTask()
     else:
         st.write("No tasks in the stack.")
-
-# streamlit run "F:\MyProject\Lib\tm DSA.py"
