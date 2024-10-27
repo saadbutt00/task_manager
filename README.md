@@ -28,3 +28,5 @@ Select the data structure you want to view tasks from using the radio buttons.
 The tasks will be displayed according to the logic of the chosen data structure.
 Remove a Task:
 Tasks can be removed by clicking the "Done" button next to each task. For the Queue, only the first task can be removed, and for the Stack, only the most recent task can be removed.
+
+App Link: https://taskmanager-2.streamlit.app/
